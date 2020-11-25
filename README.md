@@ -2,7 +2,7 @@
 
 With this application, you can save your personal memories (text, photo, audio, video, etc.) and receive random notifications to remember.
 
-Some social networks like Facebook have similar functionality, however, the idea of this application is that your memories are private.
+Some social networks like Facebook have similar functionality, however, the idea of this application is that your memories are private. Other apps like Google Photos work only with photos or videos, but do not deal with texts or audios.
 
 Some ideas on how to use Rememory:
 
