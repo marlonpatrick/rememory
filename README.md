@@ -1,4 +1,4 @@
-**Project for personal studies purpose  in various areas of software development, especially distributed systems, devops, cloud, containers.**
+**Project for personal studies purpose  in various areas of software development, especially distributed systems, devops, cloud, microservices, containers.**
 
 With this application, you can save your personal memories (text, photo, audio, video, etc.) and receive random notifications to remember.
 
@@ -11,3 +11,8 @@ Some ideas on how to use Rememory:
 - Remember a dream or plan that you might end up forgetting about the daily routine;
 - Remember a quote from a book;
 - Remember a tip, information, knowledge, advice, etc;
+
+**Related Repositories/Projects**
+
+- [Remembrance Management](https://github.com/marlonpatrick/rememory-remembrance-management): service responsible to expose APIs to register remembrances
+- [Outbox Transformer (kafka Streams)](https://github.com/marlonpatrick/kafka-mongodb-outbox-transformer): a Kafka Streams application responsible for transform a MongoDB "raw change stream document" into a standardized message format to implement the [Transactional Outbox Pattern](https://microservices.io/patterns/data/transactional-outbox.html) with MongoDB and Kafka.
