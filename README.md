@@ -1,4 +1,4 @@
-**Project for personal studies purpose  in various areas of software development, especially distributed systems, devops, cloud, microservices, containers.**
+**Project for personal studies purpose  in several areas of software development, especially distributed systems, devops, cloud, microservices, containers.**
 
 # Rememory
 
