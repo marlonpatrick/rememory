@@ -14,20 +14,6 @@ Some ideas on how to use Rememory:
 - Remember a quote from a book;
 - Remember a tip, information, knowledge, advice, etc;
 
-## Completed study goals
-
-
-#### 2020.2
-
-- Implement a pratical Hexagonal/Clean Architecture in a Spring Boot application
-- Understand and configure several tools from the Kafka ecosystem (Connect, Schema Registry, Rest Proxy, UI apps) for a development environment with docker compose
-- Understand and configure MongoDB for a development environment with docker compose
-- Implement a Kafka Connect Source (MongoDB to Kafka)
-- Implement a Kafka Consumer application
-- Implement a Kafka Streams  application
-- Implement the [Transactional Outbox Pattern](https://microservices.io/patterns/data/transactional-outbox.html) with MongoDB and Kafka
-
-
 ## Related Repositories/Projects
 
 
